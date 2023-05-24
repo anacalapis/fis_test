@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+junit-example,org.loose.sef.junitexample,Prize,0,27,0,0,0,2,0,1,0,1
+junit-example,org.loose.sef.junitexample,MathChampionship,20,52,5,9,7,17,5,8,2,4
+junit-example,org.loose.sef.junitexample,StudentScore,8,15,0,0,4,6,2,3,2,3
+junit-example,org.loose.sef.junitexample,StudentNotFoundException,0,4,0,0,0,2,0,1,0,1
